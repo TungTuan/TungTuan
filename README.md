@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tung</h1>
+<h1 align="center">Hi 👋, I'm Terry</h1>
 <h3 align="center">A passionate Software Engineer from Viet Nam</h3>
 
 - 💬 Ask me about **Angular, React, Vue, Nodejs, Python**
